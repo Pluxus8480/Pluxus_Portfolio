@@ -48,6 +48,8 @@
 
 ## 2. MULLET MADJACK (팀, 4인)
 
+![Bn87Z1RMEuIHHbNtryjPQlx23OceBOM57w5hk6yS9EFDb7OrZiFCNHl41bdFzhQczse87AUB91Al7FfnFWIWcw](https://github.com/user-attachments/assets/e21fcb0a-45ef-4f59-a49f-715bb164ad61)
+
 - **개발기간:** 2024.03 ~ 2024.04  
 - **역할:** 프레임워크, 플레이어, 보스전  
 - **언어:** C++  
@@ -59,14 +61,16 @@
 
 ---
 
-## 3. BPM: Bullet Per Minute (개인)
+## 3. Ghost Runner (개인)
+
+![image](https://github.com/user-attachments/assets/7b07148c-733c-4ab6-8c73-db9b03443951)
 
 - **개발기간:** 2024.06 ~ 2024.08  
 - **언어:** C++  
 - **그래픽스:** DirectX 11  
 - **주요 기술:** C++, DirectX 11, Nvidia PhysX
 - **프로젝트 설명:**  
-  BPM은 기존의 2D 테트리스를 3D로 변형한 퍼즐 게임입니다. DirectX 11을 사용하여 3D 그래픽스와 효과를 구현하였으며, 퍼즐 알고리즘 및 3D 수학에 대한 이해를 높이는 데 중점을 두었습니다.
+  Ghost Runner를 참고하여 만든 게임입니다. 본 게임의 챌린지 컨텐츠인 킬 런을 참고하였으며 사이버펑크 스타일의 맵을 구현하기 위해 많은 양의 모델 데이터 최적화와 스타일리쉬한 움직임과 와이어액션 가속물리를 구현하였습니다.
 - **영상 링크:** [링크](https://www.youtube.com)  
 - **코드:** [깃허브 링크](https://github.com/sturdyChair/portfolio)
 
